@@ -1,0 +1,17 @@
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\bin\Debug\net8.0-windows\WinFormsCRUD_WebAPI.exe
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\bin\Debug\net8.0-windows\WinFormsCRUD_WebAPI.deps.json
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\bin\Debug\net8.0-windows\WinFormsCRUD_WebAPI.runtimeconfig.json
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\bin\Debug\net8.0-windows\WinFormsCRUD_WebAPI.dll
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\bin\Debug\net8.0-windows\WinFormsCRUD_WebAPI.pdb
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\WinFormsCRUD_WebAPI.Form1.resources
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\WinFormsCRUD_WebAPI.csproj.GenerateResource.cache
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\WinFormsCRUD_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\WinFormsCRUD_WebAPI.AssemblyInfoInputs.cache
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\WinFormsCRUD_WebAPI.AssemblyInfo.cs
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\WinFormsCRUD_WebAPI.csproj.CoreCompileInputs.cache
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\WinFormsCRUD_WebAPI.dll
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\refint\WinFormsCRUD_WebAPI.dll
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\WinFormsCRUD_WebAPI.pdb
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\WinFormsCRUD_WebAPI.genruntimeconfig.cache
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\ref\WinFormsCRUD_WebAPI.dll
+D:\MyProjects_persistent\WinForms\WinFormsCRUD_WebAPI\obj\Debug\net8.0-windows\WinFormsCRUD_WebAPI.FormBuyerScreen.resources
